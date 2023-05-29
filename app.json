@@ -56,5 +56,6 @@
     "downloadFile": 10000
   },
   "debug": false,
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
 }
